@@ -10,7 +10,7 @@
 <h1 align="center">
   ★Tampilan Script Ini★
 
-<img src="https://github.com/syahricogan/spam/blob/main/SpamSms.png" />
+
 
 
 ### Fitur
@@ -38,12 +38,12 @@
 ```
 ### Menjalankan Script
 ```
-• cd AllOTP
+• cd spam
 • pip install -r bahan.txt
-• python RaySpam.py
+• python syahri.py
 ```
 ### SOSIAL MEDIA SAYA
-* [<img alt="Rayhan Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Rayhan-Z75/)<br />
-* [<img alt="Rayhan Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/RayhanGanzRGZ)<br />
+* [<img alt="Syahri instragram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instragram.svg" /> <b>Github</b>](https://www.instagram.com/nsrstory)<br />
+* [<img alt="Syahri YouTube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/YouTube.svg" /> <b>YouTube</b>](https://youtube.com/channel/UCgfk8w2Bge9NXFDMGrhTd7g)<br />
 * [<img alt="Syahri Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6285893123964?text=Asalamualaikum+Bang)<br />
-* [<img alt="Rayhan Tentang Saya" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" /> <b>Tentang Saya</b>](https://rayhan-z75.000webhostapp.com/RayhanWebsite.html)<br />
+
