@@ -44,6 +44,5 @@
 ```
 ### SOSIAL MEDIA SAYA
 * [<img alt="Syahri instragram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instragram.svg" /> <b>Github</b>](https://www.instagram.com/nsrstory)<br />
-* [<img alt="Syahri YouTube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/YouTube.svg" /> <b>YouTube</b>](https://youtube.com/channel/UCgfk8w2Bge9NXFDMGrhTd7g)<br />
-* [<img alt="Syahri Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6285893123964?text=Asalamualaikum+Bang)<br />
-
+* [<img alt="SyahrYouTube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/YouTube.svg" /> <b>YouTube</b>](https://youtube.com/channel/UCgfk8w2Bge9NXFDMGrhTd7g)<br />
+* [<img alt="Syahri WhatsApp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6285893123964?text=Asalamualaikum+Bang)<br />
